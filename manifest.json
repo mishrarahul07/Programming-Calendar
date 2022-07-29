@@ -1,5 +1,5 @@
 {
-    "name" : "coding contest extension",
+    "name" : "Contest Calendar extension",
     "version" : "1.0",
     "description" : "Gives You the list of all Upcoming Coding Contests",
     "manifest_version" : 3,
