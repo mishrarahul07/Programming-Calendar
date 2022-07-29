@@ -1,5 +1,12 @@
 ### Techie Calender
-This extension would provide information about the upcoming contests on following platforms: 
+<img src="icon.png" alt="logo full" width="100">
+<hr>
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+**A cross-browser extension to provide information about the upcoming contests on following platforms: 
+<!-- This extension would provide information about the upcoming contests on following platforms:  -->
+It is a light-weight browser extension which runs in the menu bar. It provides information about the upcoming coding contests on various Platforms
 
 API link: https://kontests.net/api/v1/all
 <ul>
