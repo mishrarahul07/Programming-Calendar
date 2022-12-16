@@ -1,4 +1,4 @@
-### Techie Calender
+### Programming Calender
 <img src="icon.png" alt="logo full" width="100">
 <hr>
 
