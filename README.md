@@ -1,10 +1,10 @@
-### Programming Calender
+### Techie Calender
 <img src="icon.png" alt="logo full" width="100">
 <hr>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-**A cross-browser extension to provide information about the upcoming contests on following platforms: 
+A cross-browser extension to provide information about the upcoming contests on following platforms: 
 
 <ul>
 <li> <a href="https://CodeForces.com" >CodeForces</a></li> 
@@ -30,6 +30,8 @@ It is a light-weight browser extension which runs in the menu bar. It provides i
 * Supports major online coding platforms
 
 <hr>
+
+## :arrow_down: Installation 
 Clone the source code locally:
 
 ```sh
@@ -50,6 +52,8 @@ $ cd Techie-Calendar
 ### Microsoft Edge
 * follow steps in this [link](https://www.windowscentral.com/how-install-non-store-extensions-microsoft-edge)
 
+<hr>
+
 ## :handshake: Contribution
 Contributions are always welcomed, here is what you need to do:
 1. Work on an existing issue or create a new one [here](https://github.com/mishrarahul07/Techie-Calendar/issues)
@@ -60,6 +64,18 @@ Know more about [pull request](https://docs.github.com/en/free-pro-team@latest/g
 * Mozilla Firefox 83.0
 * Google Chrome 87.0
 
+<hr>
+
+## :computer: Working Screenshots
+* Manage Extensions
+<img src="Manage_ext2.png" alt="Manage_extension2" width=50%>
+
+<img src="Manage_Ext1.png" alt="Manage_extension1" width=50%>
+
+* Chrome Extensions Demo
+<img src="Demo.png" alt="Demo" width=50%>
+
+<hr>
 
 ## :clipboard: License
 MIT © <a href = "https://www.linkedin.com/in/mishra-rahul07/" target="_blank">Rahul Mishra</a>
